@@ -62,3 +62,12 @@ for consulta, metricas in resultados.items():
     print(f"Consulta {consulta}:")
     for metrica, valor in metricas.items():
         print(f"  {metrica}: {valor:.4f}")
+
+# Guardar resultados en un archivo
+ruta_resultados = os.path.join(ruta_base, "Resultados.txt")
+with open(ruta_resultados, 'w') as f:
+    for consulta, metricas in resultados.items():
+        f.write(f"Consulta {consulta}:\n")
+        for metrica, valor in metricas.items():
+            f.write(f"  {metrica}: {valor:.4f}\n")
+        f.write("\n")

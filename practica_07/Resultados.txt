@@ -1,0 +1,174 @@
+Consulta 1:
+  Precisión: 0.0200
+  Recuerdo: 0.0270
+  Media F: 0.0230
+  Precisión R a Z: 0.0200
+
+Consulta 2:
+  Precisión: 0.0200
+  Recuerdo: 0.0625
+  Media F: 0.0303
+  Precisión R a Z: 0.0200
+
+Consulta 3:
+  Precisión: 0.0400
+  Recuerdo: 0.0909
+  Media F: 0.0556
+  Precisión R a Z: 0.0400
+
+Consulta 4:
+  Precisión: 0.0200
+  Recuerdo: 0.0435
+  Media F: 0.0274
+  Precisión R a Z: 0.0200
+
+Consulta 5:
+  Precisión: 0.0000
+  Recuerdo: 0.0000
+  Media F: 0.0000
+  Precisión R a Z: 0.0000
+
+Consulta 6:
+  Precisión: 0.0600
+  Recuerdo: 0.2308
+  Media F: 0.0952
+  Precisión R a Z: 0.0600
+
+Consulta 7:
+  Precisión: 0.0400
+  Recuerdo: 0.1333
+  Media F: 0.0615
+  Precisión R a Z: 0.0400
+
+Consulta 8:
+  Precisión: 0.0600
+  Recuerdo: 0.2727
+  Media F: 0.0984
+  Precisión R a Z: 0.0600
+
+Consulta 9:
+  Precisión: 0.0250
+  Recuerdo: 0.0357
+  Media F: 0.0294
+  Precisión R a Z: 0.0250
+
+Consulta 10:
+  Precisión: 0.0400
+  Recuerdo: 0.0833
+  Media F: 0.0541
+  Precisión R a Z: 0.0400
+
+Consulta 11:
+  Precisión: 0.0200
+  Recuerdo: 0.0556
+  Media F: 0.0294
+  Precisión R a Z: 0.0200
+
+Consulta 12:
+  Precisión: 0.0600
+  Recuerdo: 0.3333
+  Media F: 0.1017
+  Precisión R a Z: 0.0600
+
+Consulta 13:
+  Precisión: 0.0200
+  Recuerdo: 0.0476
+  Media F: 0.0282
+  Precisión R a Z: 0.0200
+
+Consulta 14:
+  Precisión: 0.0400
+  Recuerdo: 0.1250
+  Media F: 0.0606
+  Precisión R a Z: 0.0400
+
+Consulta 15:
+  Precisión: 0.0200
+  Recuerdo: 0.0345
+  Media F: 0.0253
+  Precisión R a Z: 0.0200
+
+Consulta 16:
+  Precisión: 0.0200
+  Recuerdo: 0.0769
+  Media F: 0.0317
+  Precisión R a Z: 0.0200
+
+Consulta 17:
+  Precisión: 0.0400
+  Recuerdo: 0.0952
+  Media F: 0.0563
+  Precisión R a Z: 0.0400
+
+Consulta 18:
+  Precisión: 0.0000
+  Recuerdo: 0.0000
+  Media F: 0.0000
+  Precisión R a Z: 0.0000
+
+Consulta 19:
+  Precisión: 0.0800
+  Recuerdo: 0.1481
+  Media F: 0.1039
+  Precisión R a Z: 0.0800
+
+Consulta 20:
+  Precisión: 0.0200
+  Recuerdo: 0.0256
+  Media F: 0.0225
+  Precisión R a Z: 0.0200
+
+Consulta 21:
+  Precisión: 0.0200
+  Recuerdo: 0.0370
+  Media F: 0.0260
+  Precisión R a Z: 0.0200
+
+Consulta 22:
+  Precisión: 0.0000
+  Recuerdo: 0.0000
+  Media F: 0.0000
+  Precisión R a Z: 0.0000
+
+Consulta 23:
+  Precisión: 0.0400
+  Recuerdo: 0.0513
+  Media F: 0.0449
+  Precisión R a Z: 0.0400
+
+Consulta 24:
+  Precisión: 0.0400
+  Recuerdo: 0.0909
+  Media F: 0.0556
+  Precisión R a Z: 0.0400
+
+Consulta 25:
+  Precisión: 0.0200
+  Recuerdo: 0.0417
+  Media F: 0.0270
+  Precisión R a Z: 0.0200
+
+Consulta 26:
+  Precisión: 0.0400
+  Recuerdo: 0.0714
+  Media F: 0.0513
+  Precisión R a Z: 0.0400
+
+Consulta 27:
+  Precisión: 0.0200
+  Recuerdo: 0.0556
+  Media F: 0.0294
+  Precisión R a Z: 0.0200
+
+Consulta 28:
+  Precisión: 0.0400
+  Recuerdo: 0.0513
+  Media F: 0.0449
+  Precisión R a Z: 0.0400
+
+Consulta 29:
+  Precisión: 0.0400
+  Recuerdo: 0.0541
+  Media F: 0.0460
+  Precisión R a Z: 0.0400
+
