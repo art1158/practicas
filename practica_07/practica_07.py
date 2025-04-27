@@ -51,20 +51,22 @@ def calcular_metricas(relevancia, cosenos, z): #Recibe la relevancia, los coseno
     return resultados
 
 # Main
+# Definir rutas de archivos
 ruta_base = os.path.dirname(os.path.abspath(__file__))
 ruta_med_rel = os.path.join(ruta_base, "MED.REL")
 ruta_cosenos = os.path.join(ruta_base, "Cosenos.txt")
 z = int(input("Ingrese el valor de Z: "))
 
+# Leer archivos
 relevancia = leer_relevancia(ruta_med_rel)
 cosenos = leer_cosenos(ruta_cosenos)
 resultados = calcular_metricas(relevancia, cosenos, z)
 
-# Mostrar resultados
-for consulta, metricas in resultados.items():
-    print(f"Consulta {consulta}:")
-    for metrica, valor in metricas.items():
-        print(f"  {metrica}: {valor:.4f}")
+# Mostrar resultados a consola
+# for consulta, metricas in resultados.items():
+#     print(f"Consulta {consulta}:")
+#     for metrica, valor in metricas.items():
+#         print(f"  {metrica}: {valor:.4f}")
 
 # Guardar resultados en un archivo en formato tabular
 ruta_resultados = os.path.join(ruta_base, "Resultados.txt")
