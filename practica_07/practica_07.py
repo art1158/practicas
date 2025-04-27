@@ -74,5 +74,5 @@ with open(ruta_resultados, 'w') as f:
     # Escribir encabezados
     f.write("Consulta\tPrecisión\tRecuerdo\tMedia F\tPrecisión R a Z\n")
     for consulta, metricas in resultados.items():
-        f.write(f"{consulta:02}\t\t\t\t{metricas['Precisión']:.4f}\t\t\t{metricas['Recuerdo']:.4f}\t"
+        f.write(f"{consulta:02}\t\t\t\t{metricas['Precisión']:.4f}\t\t{metricas['Recuerdo']:.4f}\t"
                 f"{metricas['Media F']:.4f}\t{metricas['Precisión R a Z']:.4f}\n")
