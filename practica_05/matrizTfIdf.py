@@ -47,13 +47,14 @@ def calcular_idf(documentos, vocabulario):
     for j, palabra in enumerate(vocabulario):
         df = sum(1 for doc in documentos if palabra in doc) #documentos que contienen la palabra
         if df > 0:
-            idf[j] = np.log(num_docs / df) + 1 #si es mayor a 0 se calcula el idf - es el num de documentos / df
+            idf[j] = (np.log10(num_docs / df)) + 1 #si es mayor a 0 se calcula el idf - es el num de documentos / df
         
         else:
             idf[j] = 0.0  # o np.log(num_docs), pero depende del tratamiento de palabras ausentes
             
-        if palabra == "abdomen":
-            print(f"DF de 'abdomen': {df}")
+        if palabra == "a":
+            print(f"DF de 'a': {df}")
+            print("Numero de documentos:", num_docs)
             print(f"IDF de 'abdomen': {idf[j]}")
     return idf
 
